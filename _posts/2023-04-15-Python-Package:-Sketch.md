@@ -60,8 +60,8 @@ Some real world data analysis prompts \
 ### 7. Community and resources
 
 If you like the project then appreciate with a Star ⭐ on their Github \
-https://github.com/approximatelabs/sketch
+(https://github.com/approximatelabs/sketch)
 
 Pypi Url \
-https://pypi.org/project/sketch/
+(https://pypi.org/project/sketch/)
 
