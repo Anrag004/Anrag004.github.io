@@ -2,7 +2,7 @@
 
 ### 1. Introduction
 
-A framework to Empower your pandas data analysis with a `ChatGPT like assistant` that not only comprehends your data context but also delivers highly relevant coding suggestions.
+A 🐼 framework to 💪 empower your pandas data analysis with a ChatGPT-like 🤖 assistant that not only 🔍 comprehends your data context but also delivers highly relevant 💬 coding suggestions 💡. Plus, with the help of this assistant, you can streamline your 💻 workflow and achieve more in less time.
 
 ---
 ### 2. Key features
