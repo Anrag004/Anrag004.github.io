@@ -45,14 +45,14 @@ Basic Code Suggestion like \
 
 ---
 ### 6. Use cases
-Some real world data analysis prompts
+Some real world data analysis prompts \
 ![Screenshot 2023-04-12 at 5 58 15 PM](https://user-images.githubusercontent.com/130972855/232471943-eddb6726-f0db-4df6-95be-fdbabe99d1a7.png)
 ![Screenshot 2023-04-12 at 5 58 54 PM](https://user-images.githubusercontent.com/130972855/232471975-19ad27c2-a247-4413-8f9e-1bdf17f31567.png)
 ![Screenshot 2023-04-12 at 6 02 14 PM](https://user-images.githubusercontent.com/130972855/232471999-e6d4a938-7153-440a-bccb-8e7f61aa37f4.png)
 ![Screenshot 2023-04-12 at 6 03 36 PM](https://user-images.githubusercontent.com/130972855/232472013-5530e1c8-f75a-4eb5-b9b3-2edba39fedc6.png)
 ![Screenshot 2023-04-12 at 6 05 19 PM](https://user-images.githubusercontent.com/130972855/232472046-1322b0e8-8904-4576-9738-e4b878f9fd6e.png)
-
-
+![Screenshot 2023-04-12 at 6 05 27 PM](https://user-images.githubusercontent.com/130972855/232481961-37fac157-9521-4ee2-8ff9-0b8b601d7ed4.png)
+![Screenshot 2023-04-12 at 6 05 35 PM](https://user-images.githubusercontent.com/130972855/232481960-5ccf1a43-22dd-4145-bd31-61061ecf155a.png)
 
 ---
 ### 7. Community and resources
