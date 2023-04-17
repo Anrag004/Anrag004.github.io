@@ -37,6 +37,7 @@ iv.  Use direct:\
 Two main components
 1. ``.ask`` - direct questions about the dataframe that yo have loaded in the memory &nbsp;
 2. ``.howto`` - Direct code suggestion according to your requirement
+
 ---
 ### 5. Best practices
 Basic Question answering like \
